@@ -1,0 +1,19 @@
+{
+  "popular": "受欢迎的",
+  "top_rated": "最受好评",
+  "now_playing": "正在播放",
+  "name": "姓名",
+  "settings": "设置",
+  "language": "语言",
+  "theme": "主题",
+  "dark_theme": "黑暗主题",
+  "adult_movies": "成人电影",
+  "saved_movies": "已保存的电影",
+  "search_hint": "在此搜索电影...",
+  "save_movie": "保存电影",
+  "unsave_movie": "取消保存电影",
+  "play_movie": "播放电影预告片",
+  "back": "后退",
+  "released_in": "发布于",
+  "votes": "投票数"
+}

@@ -1,0 +1,19 @@
+{
+  "popular": "شائع",
+  "top_rated": "الأعلى تقييمًا",
+  "now_playing": "التشغيل الآن",
+  "name": "اسم",
+  "settings": "إعدادات",
+  "language": "لغة",
+  "theme": "سمة",
+  "dark_theme": "موضوع الظلام",
+  "adult_movies": "أفلام الكبار",
+  "saved_movies": "الأفلام المحفوظة",
+  "search_hint": "ابحث عن الأفلام هنا...",
+  "save_movie": "حفظ الفيلم",
+  "unsave_movie": "إلغاء حفظ الفيلم",
+  "play_movie": "تشغيل مقطع دعائي للفيلم",
+  "back": "خلف",
+  "released_in": "صدر في",
+  "votes": "الأصوات"
+}

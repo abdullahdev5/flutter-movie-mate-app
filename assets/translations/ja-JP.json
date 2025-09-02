@@ -1,0 +1,19 @@
+{
+  "popular": "人気のある",
+  "top_rated": "最高評価",
+  "now_playing": "プレイ中",
+  "name": "名前",
+  "settings": "設定",
+  "language": "言語",
+  "theme": "テーマ",
+  "dark_theme": "ダークテーマ",
+  "adult_movies": "アダルト映画",
+  "saved_movies": "保存されたムービー",
+  "search_hint": "ここで映画を検索...",
+  "save_movie": "ムービーの保存",
+  "unsave_movie": "ムービーの保存を解除",
+  "play_movie": "ムービートレーラーを再生する",
+  "back": "戻る",
+  "released_in": "発売年",
+  "votes": "投票"
+}

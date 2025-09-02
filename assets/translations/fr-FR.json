@@ -1,0 +1,19 @@
+{
+  "popular": "Populaire",
+  "top_rated": "Les mieux notés",
+  "now_playing": "Lecture en cours",
+  "name": "Nom",
+  "settings": "Paramètres",
+  "language": "Langue",
+  "theme": "Thème",
+  "dark_theme": "Thème sombre",
+  "adult_movies": "Films pour adultes",
+  "saved_movies": "Films enregistrés",
+  "search_hint": "Recherchez des films ici...",
+  "save_movie": "Enregistrer le film",
+  "unsave_movie": "Annuler l'enregistrement du film",
+  "play_movie": "Lire la bande-annonce du film",
+  "back": "Dos",
+  "released_in": "Sorti en",
+  "votes": "Votes"
+}

@@ -1,0 +1,19 @@
+{
+  "popular": "Beliebt",
+  "top_rated": "Bestbewertet",
+  "now_playing": "Jetzt gespielt",
+  "name": "Name",
+  "settings": "Einstellungen",
+  "language": "Sprache",
+  "theme": "Thema",
+  "dark_theme": "Dunkles Thema",
+  "adult_movies": "Erotikfilme",
+  "saved_movies": "Gespeicherte Filme",
+  "search_hint": "Suchen Sie hier nach Filmen ...",
+  "save_movie": "Film speichern",
+  "unsave_movie": "Speichern Sie den Film auf",
+  "play_movie": "Filmtrailer abspielen",
+  "back": "Zurück",
+  "released_in": "Veröffentlicht in",
+  "votes": "Stimmen"
+}

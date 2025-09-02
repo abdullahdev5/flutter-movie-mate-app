@@ -1,0 +1,19 @@
+{
+  "popular": "Popular",
+  "top_rated": "Mejor valorados",
+  "now_playing": "Ahora jugando",
+  "name": "Nombre",
+  "settings": "Ajustes",
+  "language": "Idioma",
+  "theme": "Tema",
+  "dark_theme": "Tema oscuro",
+  "adult_movies": "Películas para adultos",
+  "saved_movies": "Películas guardadas",
+  "search_hint": "Busca películas aquí...",
+  "save_movie": "Guardar película",
+  "unsave_movie": "Dejar de guardar película",
+  "play_movie": "Reproducir tráiler de película",
+  "back": "Atrás",
+  "released_in": "Lanzado en",
+  "votes": "Votos"
+}

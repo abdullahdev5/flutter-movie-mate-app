@@ -1,0 +1,19 @@
+{
+  "popular": "Popular",
+  "top_rated": "Top Rated",
+  "now_playing": "Now Playing",
+  "name": "Name",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "dark_theme": "Dark Theme",
+  "adult_movies": "Adult Movies",
+  "saved_movies": "Saved Movies",
+  "search_hint": "Search for Movies here...",
+  "save_movie": "Save Movie",
+  "unsave_movie": "UnSave Movie",
+  "play_movie": "Play Movie Trailer",
+  "back": "Back",
+  "released_in": "Released in",
+  "votes": "Votes"
+}

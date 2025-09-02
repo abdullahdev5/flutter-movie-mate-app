@@ -1,0 +1,19 @@
+{
+  "popular": "인기 있는",
+  "top_rated": "최고 평점",
+  "now_playing": "지금 재생 중",
+  "name": "이름",
+  "settings": "설정",
+  "language": "언어",
+  "theme": "주제",
+  "dark_theme": "어두운 테마",
+  "adult_movies": "성인 영화",
+  "saved_movies": "저장된 영화",
+  "search_hint": "여기서 영화를 검색하세요...",
+  "save_movie": "영화 저장",
+  "unsave_movie": "동영상 저장 취소",
+  "play_movie": "영화 예고편 재생",
+  "back": "뒤쪽에",
+  "released_in": "출시일",
+  "votes": "투표"
+}

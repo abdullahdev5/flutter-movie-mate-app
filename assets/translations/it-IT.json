@@ -1,0 +1,19 @@
+{
+  "popular": "Popolare",
+  "top_rated": "I più votati",
+  "now_playing": "Ora in riproduzione",
+  "name": "Nome",
+  "settings": "Impostazioni",
+  "language": "Lingua",
+  "theme": "Tema",
+  "dark_theme": "Tema oscuro",
+  "adult_movies": "Film per adulti",
+  "saved_movies": "Film salvati",
+  "search_hint": "Cerca film qui...",
+  "save_movie": "Salva filmato",
+  "unsave_movie": "Annulla salvataggio del filmato",
+  "play_movie": "Riproduci il trailer del film",
+  "back": "Indietro",
+  "released_in": "Rilasciato nel",
+  "votes": "Voti"
+}

@@ -1,0 +1,19 @@
+{
+  "popular": "लोकप्रिय",
+  "top_rated": "टॉप रेटेड",
+  "now_playing": "अब खेल रहे हैं",
+  "name": "नाम",
+  "settings": "सेटिंग्स",
+  "language": "भाषा",
+  "theme": "विषय",
+  "dark_theme": "डार्क थीम",
+  "adult_movies": "वयस्क फिल्में",
+  "saved_movies": "सहेजी गई फ़िल्में",
+  "search_hint": "यहां फिल्में खोजें...",
+  "save_movie": "मूवी सहेजें",
+  "unsave_movie": "मूवी अनसेव करें",
+  "play_movie": "मूवी ट्रेलर चलाएं",
+  "back": "पीछे",
+  "released_in": "में जारी किया गया",
+  "votes": "वोट"
+}
